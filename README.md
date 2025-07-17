@@ -52,18 +52,18 @@ npm run dev
 ```
 -----
 
-#### 📸 Screenshots
+## 📸 Screenshots
 
 _Add some screenshots of your app UI here_
 
 -----
 
-##### 📄 License
+## 📄 License
 
 
 -----
 
-###### 🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 **Jenni Mohammed Aziz**  
 Student Developer @ ISET Djerba  
