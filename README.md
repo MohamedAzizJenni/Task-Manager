@@ -54,7 +54,7 @@ npm run dev
 
 ## 📸 Screenshots
 
-_Add some screenshots of your app UI here_
+
 
 -----
 
