@@ -33,21 +33,23 @@ cd Task-Manager-Vue+Laravel
 
 ### 2. Backend Setup (Laravel)
 
+```bash
 cd backend
 composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
-
+```
 ------
 
 ### 3. Frontend Setup (Vue.js)
 
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
 -----
 
 #### 📸 Screenshots
